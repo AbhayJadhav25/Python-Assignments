@@ -15,3 +15,6 @@ print(tuple)
 print(id(list)) #2632001370112
 print(id(tuple)) #2090351176144
  #Both holds different memory address , no matter elements are same or not
+
+
+ #

@@ -1,7 +1,7 @@
 def Fun():
   print("Jay Shree Ram...!")
+  return 
 
-Fun()  #Jay Shree Ram...
 result = Fun() #Jay Shree Ram...
 print(result) #None
 
