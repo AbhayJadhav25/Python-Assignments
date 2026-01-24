@@ -5,7 +5,6 @@ def PrimeSum(lst):
   for elements in lst:
     isPrime = ChkPrime(elements)
     if(isPrime):
-      print(elements)
       Sum+=elements
   
   return Sum
