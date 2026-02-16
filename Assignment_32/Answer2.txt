@@ -1,0 +1,7 @@
+Pattern1.java->Folder1\Java\Pattern1.java
+Pattern2.java->Folder1\Java\Pattern2.java
+Pattern3.java->Folder1\Java\Pattern3.java
+GameZone.c->Folder1\Python\GameZone.c
+Hangman.c->Folder1\Python\Hangman.c
+Q1.py->Folder1\Python\Q1.py
+Q2.py->Folder1\Python\Q2.py

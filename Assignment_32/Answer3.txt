@@ -1,0 +1,6 @@
+.\Folder1\Python\GameZone.c
+.\Folder1\Python\Hangman.c
+.\Folder1\Java\Pattern2.java
+.\Folder1\Java\Pattern3.java
+.\Folder1\Python\Q1.py
+.\Folder1\Python\Q2.py

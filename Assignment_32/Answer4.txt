@@ -1,0 +1,4 @@
+.\Folder1\b.txt
+.\Folder1\Java\D.txt
+.\Folder1\Python\f.txt
+Total Delted Files : 3

@@ -1,0 +1,10 @@
+GameZone.c = 74f2928de1842cc2c1c7eca0f6263673
+Hangman.c = 7434fae86198d3952dc115f40e74b301
+matchStick.c = 84001b057ce4284a610c3e7509327254
+Pattern1.java = 595476c3933006b265b0c3fd05e54d12
+Pattern2.java = df5dff3134c955ae8d5b78d4a1fbdaf5
+Pattern3.java = f3cc2f82ee04e3794934334fbb0e72ba
+Pattern4.java = a081d536acb6ae5dcd6da272070326f6
+Q1.py = 74171963a4f5c78be3acf14963fff9bb
+Q2.py = 8b7b7e4ff67e8719e7572fe6e3bb922b
+Q3.py = ca917569bdba44f0b148e3398b41deaa
