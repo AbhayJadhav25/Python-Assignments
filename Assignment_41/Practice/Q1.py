@@ -20,7 +20,7 @@ def userdefinedKNN():
     new_point = {'X' : X , 'Y' : Y}
 
     for i in range(len(df)):
-        df.loc[i , 'Distance'] = EuclideanDist(df.iloc[i] , new_point)
+        df.loc[i , 'Distance'] = EuclideanDist(df.iloc[i] , new_point)   #df.loc[i , 'Distance'] --> distance column of ith row
 
     sorted_data = df.sort_values(by='Distance')
     print(sorted_data)
@@ -42,6 +42,7 @@ def userdefinedKNN():
 
     ans = max(votes , key = votes.get)
     print("Final Prediction is = ",ans)
+
 def main():
     userdefinedKNN()
 if __name__ == "__main__":

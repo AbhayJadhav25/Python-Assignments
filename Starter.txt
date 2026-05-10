@@ -1,0 +1,13 @@
+def main():
+
+if __name__ == "__main__" :
+  main()
+
+
+def main():
+  No = int(input("Enter Any Number : "))
+  Res = Factorial(NO)
+  print("Factorial Of ",No,"=",Res)
+  
+if __name__ == "__main__" :
+  main()

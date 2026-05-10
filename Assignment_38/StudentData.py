@@ -58,7 +58,7 @@ print("*"*10,"Step 5 Completed","*"*10)
 
 #step 6 :Histogram of study Hours
 plt.figure(figsize = (8,5))
-plt.hist(df["SleepHours"] , color = "skyblue" , edgecolor = "black")
+plt.hist(df["SleepHours"] , color = "skyblue" , edgecolor = "black" , alpha = 0.7)
 plt.title("Sleeping Hours Histogram")
 plt.xlabel("Sleeping Hours")
 plt.ylabel("Frequency")
